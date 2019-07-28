@@ -52,3 +52,10 @@ Always consult with lawyer.
 - Startup goes through a series of funding. You get pre-seed money, seed money, series A, B, C... When a funding round is over, you need to start preparing for next one. Getting funds in Slovakia takes longer (10-12 months compared to 4-6 months elsewhere)
 - Startup ecosystem is not build sufficiently in Slovakia
 - Founder of Startup Awards: "I created a monster". In Bratislava, you have startup events and competitions almost every day, but companies don't focus that much on their work and on their product. They want to be seen instead.
+
+## 3 components of a successful startup
+- [x] idea
+- [x] people (team)
+- [x] funding
+
+If you have an idea, you need to persuade few people and get your founders. Then work on your business plan and try to get pre-seed funding. All 3 components are equally important and you go in this spiral throughout the life of your startup.
