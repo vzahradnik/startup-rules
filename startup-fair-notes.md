@@ -6,6 +6,7 @@ One of the successful strategies is to observe your competition, which server in
 - Look at their financial data and other publicly accessible documents
 - Business model is already proven to be working
 - Example: GymBeam
+- If possible, focus on hardware/physical product or a combination of hardware and software. It is harder to reproduce for your competition
 
 ## Hypothesis validation
 - Try to be as effective as possible. Do not build realistic product to prove your hypothesis, unless it is absolutely necessary.
